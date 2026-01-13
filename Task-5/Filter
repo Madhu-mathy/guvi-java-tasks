@@ -1,0 +1,9 @@
+import java.util.List;
+
+public class Filter{
+    public static void main(String[] args) {
+        List<String> students = List.of("Arun", "Anita", "Akhil", "Bala", "Asha","Ravi", "Ajay", "Kiran", "Aman", "Sneha");
+        students.stream().filter(name -> name.startsWith("A")).forEach(System.out::println);
+    }
+}
+
