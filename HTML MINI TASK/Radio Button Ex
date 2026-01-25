@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Radio Button Ex</title>
+</head>
+<body>
+    <form>
+    <label>Employee Type</label><br>
+    <input type="radio" name="EmployeeType" value="Salaried" checked>
+    <label>Salaried</label><br>
+    <input type="radio" name="EmployeeType" value="Self Employeed">
+    <label>self-Employeed</label><br>
+</form>
+</body>
+</html>
