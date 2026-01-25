@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Highlighting Without CSS</title>
+  </head>
+  <body>
+    <h3>Highlighting Without CSS</h3>
+     <p><u><mark><q>HTML & CSS is awesome</q></mark></u></p>
+  </body>
+</html>
